@@ -1,3 +1,3 @@
-# Lab1_Jan12
-Practice repo from 1st lab of Bioengr188
+# Jan 12 2018
 
+Contains problem sets for Bioengineering 188: Machine Learning and Data-Driven Modeling
