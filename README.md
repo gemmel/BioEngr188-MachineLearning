@@ -1,3 +1,3 @@
-# Jan 12 2018
+# Description
 
-Contains problem sets for Bioengineering 188: Machine Learning and Data-Driven Modeling
+Contains completed problem sets for Bioengineering 188: Machine Learning and Data-Driven Modeling
